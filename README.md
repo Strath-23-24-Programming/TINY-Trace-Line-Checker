@@ -99,7 +99,7 @@ Hit Enter to Finish...
 
 + This script halts after 500 operations, and assumes that the TINY program loops indefinitely
 + This can be changed by editing the main loop of the program, line 298. Set count to a desired value.
-+ There are some use cases where this may trip up, do let me know
++ There are some use cases where this may trip up, if you find any do let me know
 
 ## Known Bugs
 
